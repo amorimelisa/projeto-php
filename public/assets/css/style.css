@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.produtos{
+display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 70px;
+  margin-bottom: 32px;
+  .produto{
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border-radius: 8px;
+ strong{
+    color: blueviolet;
+ }
+}
+}
