@@ -3,9 +3,9 @@ $produtos = [
     (object)[
         "id" => 1,
         "nome" => "Notebook Dell Inspiron 15",
-        "preco" => 3500,
-        "estoque" => 12,
-        "imagem" => "https://placehold.co/200",
+        "preco" => "Preço: 3500",
+        "estoque" => "Unidades Desponiveis: 12",
+        "imagem" => "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3520/pdp/laptop-inspiron-15-3520-pdp-gallery-504x350-bk.psd?fmt=png-alpha&wid=570&hei=400",
         "descricao" => "Notebook de alto desempenho com processador Intel i7, 16GB RAM e SSD de 512GB. Ideal para trabalho e estudos.",
         "categoria" => "Informática",
         "marca" => "Dell"
